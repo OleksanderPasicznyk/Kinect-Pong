@@ -1,0 +1,45 @@
+C:\Users\Jonathan Wu\Desktop\EK131\KinectGrid\bin\AnyCPU\Debug\GridSandbox.exe.config
+C:\Users\Jonathan Wu\Desktop\EK131\KinectGrid\bin\AnyCPU\Debug\GridSandbox.exe
+C:\Users\Jonathan Wu\Desktop\EK131\KinectGrid\bin\AnyCPU\Debug\GridSandbox.pdb
+C:\Users\Jonathan Wu\Desktop\EK131\KinectGrid\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Jonathan Wu\Desktop\EK131\KinectGrid\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Jonathan Wu\Desktop\EK131\KinectGrid\obj\Debug\GridSandbox.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Wu\Desktop\EK131\KinectGrid\obj\Debug\MainWindow.baml
+C:\Users\Jonathan Wu\Desktop\EK131\KinectGrid\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan Wu\Desktop\EK131\KinectGrid\obj\Debug\App.g.cs
+C:\Users\Jonathan Wu\Desktop\EK131\KinectGrid\obj\Debug\GridSandbox_MarkupCompile.cache
+C:\Users\Jonathan Wu\Desktop\EK131\KinectGrid\obj\Debug\GridSandbox.g.resources
+C:\Users\Jonathan Wu\Desktop\EK131\KinectGrid\obj\Debug\GridSandbox.Properties.Resources.resources
+C:\Users\Jonathan Wu\Desktop\EK131\KinectGrid\obj\Debug\GridSandbox.csproj.GenerateResource.Cache
+C:\Users\Jonathan Wu\Desktop\EK131\KinectGrid\obj\Debug\GridSandbox.exe
+C:\Users\Jonathan Wu\Desktop\EK131\KinectGrid\obj\Debug\GridSandbox.pdb
+C:\Users\Jonathan Wu\Desktop\EK131\GridSandbox\bin\AnyCPU\Debug\GridSandbox.exe.config
+C:\Users\Jonathan Wu\Desktop\EK131\GridSandbox\obj\Debug\GridSandbox.exe
+C:\Users\Jonathan Wu\Desktop\EK131\GridSandbox\obj\Debug\GridSandbox.pdb
+C:\Users\Jonathan Wu\Desktop\EK131\GridSandbox\bin\AnyCPU\Debug\GridSandbox.exe
+C:\Users\Jonathan Wu\Desktop\EK131\GridSandbox\bin\AnyCPU\Debug\GridSandbox.pdb
+C:\Users\Jonathan Wu\Desktop\EK131\GridSandbox\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Jonathan Wu\Desktop\EK131\GridSandbox\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Jonathan Wu\Desktop\EK131\GridSandbox\obj\Debug\GridSandbox.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Wu\Desktop\EK131\GridSandbox\obj\Debug\MainWindow.baml
+C:\Users\Jonathan Wu\Desktop\EK131\GridSandbox\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan Wu\Desktop\EK131\GridSandbox\obj\Debug\App.g.cs
+C:\Users\Jonathan Wu\Desktop\EK131\GridSandbox\obj\Debug\GridSandbox_MarkupCompile.cache
+C:\Users\Jonathan Wu\Desktop\EK131\GridSandbox\obj\Debug\GridSandbox.g.resources
+C:\Users\Jonathan Wu\Desktop\EK131\GridSandbox\obj\Debug\GridSandbox.Properties.Resources.resources
+C:\Users\Jonathan Wu\Desktop\EK131\GridSandbox\obj\Debug\GridSandbox.csproj.GenerateResource.Cache
+C:\Users\ahoang18\Documents\Visual Studio 2012\Projects\GridSandboxv2\bin\AnyCPU\Debug\GridSandbox.exe.config
+C:\Users\ahoang18\Documents\Visual Studio 2012\Projects\GridSandboxv2\obj\Debug\GridSandbox.exe
+C:\Users\ahoang18\Documents\Visual Studio 2012\Projects\GridSandboxv2\obj\Debug\GridSandbox.pdb
+C:\Users\ahoang18\Documents\Visual Studio 2012\Projects\GridSandboxv2\bin\AnyCPU\Debug\GridSandbox.exe
+C:\Users\ahoang18\Documents\Visual Studio 2012\Projects\GridSandboxv2\bin\AnyCPU\Debug\GridSandbox.pdb
+C:\Users\ahoang18\Documents\Visual Studio 2012\Projects\GridSandboxv2\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\ahoang18\Documents\Visual Studio 2012\Projects\GridSandboxv2\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\ahoang18\Documents\Visual Studio 2012\Projects\GridSandboxv2\obj\Debug\GridSandbox.csprojResolveAssemblyReference.cache
+C:\Users\ahoang18\Documents\Visual Studio 2012\Projects\GridSandboxv2\obj\Debug\MainWindow.baml
+C:\Users\ahoang18\Documents\Visual Studio 2012\Projects\GridSandboxv2\obj\Debug\MainWindow.g.cs
+C:\Users\ahoang18\Documents\Visual Studio 2012\Projects\GridSandboxv2\obj\Debug\App.g.cs
+C:\Users\ahoang18\Documents\Visual Studio 2012\Projects\GridSandboxv2\obj\Debug\GridSandbox_MarkupCompile.cache
+C:\Users\ahoang18\Documents\Visual Studio 2012\Projects\GridSandboxv2\obj\Debug\GridSandbox.g.resources
+C:\Users\ahoang18\Documents\Visual Studio 2012\Projects\GridSandboxv2\obj\Debug\GridSandbox.Properties.Resources.resources
+C:\Users\ahoang18\Documents\Visual Studio 2012\Projects\GridSandboxv2\obj\Debug\GridSandbox.csproj.GenerateResource.Cache
