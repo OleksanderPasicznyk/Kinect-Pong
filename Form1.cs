@@ -68,8 +68,9 @@ namespace GridSandbox
                 }
                 if (p.X + ballSpeedX < 0)
                 {
-                Console.Write("Game Ended. Your Score:  " + gameScore);
-                ballSpeedX *= -1;
+                    //endgame
+                    Console.Write("Game Ended. Your Score:  " + gameScore);
+                    this.Close();
                 }
                 if (p.X + ballSpeedX > ClientSize.Width)
                 {
@@ -83,8 +84,8 @@ namespace GridSandbox
             }
 　
             private bool intersectsWithPaddle(PictureBox ball)
-            {
-                if (ball.Location.Y < picBoxPlayer.Location.Y + picBoxPlayer.Size.Height && ball.Location.Y + ball.Size.Height < picBoxPlayer.Location.Y)
+            {//fixed
+                if (ball.Location.Y < picBoxPlayer.Location.Y + picBoxPlayer.Size.Height && ball.Location.Y + ball.Size.Height > picBoxPlayer.Location.Y)
                 {
                     if (ball.Location.X < picBoxPlayer.Size.Width)
                         {
